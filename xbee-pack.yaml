@@ -1,0 +1,5 @@
+schema-version: 1.0
+
+extend: ubuntu:20.04
+
+dependency: delve
