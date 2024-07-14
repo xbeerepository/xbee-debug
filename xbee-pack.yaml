@@ -1,5 +1,5 @@
 schema-version: 1.0
 
-extend: ubuntu:20.04
+extend: ubuntu:24.04
 
 dependency: delve
